@@ -1,0 +1,10 @@
+C:\Users\huen\source\repos\1\1\bin\Debug\1.exe.config
+C:\Users\huen\source\repos\1\1\bin\Debug\1.exe
+C:\Users\huen\source\repos\1\1\bin\Debug\1.pdb
+C:\Users\huen\source\repos\1\1\obj\Debug\_1.Mouse.MouseDown.resources
+C:\Users\huen\source\repos\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\huen\source\repos\1\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\huen\source\repos\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\huen\source\repos\1\1\obj\Debug\1.exe
+C:\Users\huen\source\repos\1\1\obj\Debug\1.pdb
+C:\Users\huen\source\repos\1\1\obj\Debug\1.csprojAssemblyReference.cache
